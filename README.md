@@ -3,15 +3,15 @@
 #### Studying at BRAC University
 
 
-I'm currently learning Python. I am also a Front End Web developer. I have a passion for learning and sharing my knowledge with others. Most of the time I work with WordPress but I also enjoy working with  Python, HTML, CSS
+I'm currently learning Python. I am also a student. I have a passion for learning and sharing my knowledge with others. Most of the time I work with Python but I also enjoy working with HTML, CSS, SQL, Java
 
-Skills: HTML / CSS / JS / Python
+Skills: Python / HTML / CSS / JS / SQL
 
-- 🔭 I’m currently working on Fiverr 
+- 🔭 I’m currently Studying at BRAC University 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with PHP 
-- 💬 Ask me about Python / WordPress 
+- 🤔 I’m looking for help with SQL 
+- 💬 Ask me about Python / SQL 
 - 📫 How to reach me: Facebook / Instagram / Twitter 
 - 😄 Pronouns: সায়হান 
 
