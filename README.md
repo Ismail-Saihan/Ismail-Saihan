@@ -1,4 +1,4 @@
-![Studying at BRAC University](https://pbs.twimg.com/profile_banners/1442857665839853568/1632839580/600x200)
+
 ### Hi there 👋, I am Saihan
 #### Studying at BRAC University
 
